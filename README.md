@@ -14,5 +14,5 @@ Agora abaixo algumas informações sobre mim: <br>
 - 16 anos;
 
 Linguagens que uso no meu dia a dia: <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" />
 </div>
