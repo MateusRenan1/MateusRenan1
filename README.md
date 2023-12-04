@@ -3,9 +3,6 @@
 Abaixo está(ão) a(s) linguagem(ns) que mais uso:<br> <br>
 ![Mateus Renan GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusRenan1&show_icons=true&theme=dark) <br>
   <a href="https://github.com/MateusRenan1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRenan1&layout=compact&theme=dark&hide_border=true" /></a>
-
-
 
 Agora abaixo algumas informações sobre mim: <br>
 - Atualmente estudando na ETE Cyl Gallindo;
